@@ -1,3 +1,5 @@
-Isadora Rosseline
-Christiano Amaral
-Guilherme Vanzan
+Insira sua busca aqui separada por espaços
+Cada linha será uma busca diferente
+Acentos e pontuações podem ser inseridas!
+Esta linha é um exemplo
+Fulano da Silva
